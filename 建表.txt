@@ -1,0 +1,1 @@
+﻿表：web_b2c_item ->新添字段deduction
